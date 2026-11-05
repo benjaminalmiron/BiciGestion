@@ -35,6 +35,6 @@ El sistema utiliza SQL Server y trabaja con las tablas `ALQUILER` y `TIPO_BICICL
 
 Para ejecutarlo, es necesario configurar la cadena de conexión en `App.config` y crear la base de datos correspondiente.
 
-## Autor Benjamin Thomas Almiron.
+## Autor Benjamin Thomas Almiron
 
 Proyecto desarrollado con fines académicos y de práctica de programación.
